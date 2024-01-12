@@ -1,0 +1,228 @@
+---
+title: "Assignment 2"
+author: "Alireza"
+date: "2023-10-30"
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+**Part 1**
+
+**1.C**
+In this section, tables were built and CSV files created. Also, 500 samples generated.
+
+```{r}
+store_table <- 
+  data.frame(key=c("Bank", "Younge", "Papineau", "Boundary", "Bertrand"),
+             Street=c("Bank St", "Younge St", "Rue Papineau", "Boundray Road", "Rue Bertrand"),
+             city=c("OT", "TR", "Mo", "Va", "QU"))
+
+city_info <-
+  data.frame(
+    city=c("OT", "TR", "MO", "VA", "QU"),
+    name=c("Ottawa", "Toronto", "Montreal", "Vancouver", "Quebec City"),
+    country=c("Canada", "Canada", "Canada", "Canada", "Canada")
+  )
+
+date_table <- 
+  data.frame(key=1:12,
+             month=c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12),
+             quarter=c("Q1","Q1","Q1","Q2","Q2","Q2","Q3","Q3","Q3","Q4","Q4","Q4"),
+             year=c(2022, 2023))
+
+key=c("personal", "small", "medium", "large", "xlarge")
+size_table <-data.frame(key=factor(x=key,levels=c("personal", "small", "medium", "large", "xlarge"),
+                                   ordered=TRUE),
+                        price =c(7, 9, 11, 13, 15))
+
+dough_table <-
+  data.frame(key=c("thin", "regular", "stuffed crust"))
+
+cheese_table <-
+  data.frame(key=c("mozzarella", "cheddar", "Goda"))
+
+topping_table <-
+  data.frame(key=c("Pepperoni", "Tomato", "Bacon", "mushroom"))
+
+gen_orders <- function (no_recs) {
+  OrderID <- 1:no_recs
+  store <- sample(store_table$key, no_recs, replace = TRUE)
+  time_year <- sample(c(2022, 2023), no_recs, replace = TRUE, prob = c(1, 1.7))
+  time_month <- sample(date_table$month, no_recs, replace = TRUE, prob = c(1, 1, 1, 1, 1, 1, 
+                                                                           1, 1, 1, 1, 1, 1))
+  size <- sample(size_table$key, no_recs, replace = TRUE, prob = c(1, 1, 1, 1.5, 2))
+  dough <- sample(dough_table$key, no_recs, replace = TRUE)
+  cheese <- sample(cheese_table$key, no_recs, replace = TRUE)
+  topping <- sample(topping_table$key, no_recs, replace = TRUE)
+  quantity <- sample(1:5, no_recs, replace = TRUE, prob = c(5, 2, 1, 1, 1))
+  profit <- quantity*size_table[size, ]$price
+  
+  orders <- data.frame(month=time_month,
+                      year=time_year,
+                      loc=store,
+                      size=size,
+                      dough=dough,
+                      cheese=cheese,
+                      topping=topping,
+                      quantity=quantity,
+                      profit=profit)
+  
+  # Sort the records by time order
+  orders <- orders[order(orders$year, orders$month),]
+  row.names(orders) <- NULL
+  return(orders)
+  
+} 
+
+orders_fact <- gen_orders(1000)
+head(orders_fact)
+
+write.csv(store_table, "store_location.csv", row.names = FALSE)
+write.csv(city_info, "city_info.csv", row.names = FALSE)
+write.csv(size_table, "pizza_size.csv", row.names = FALSE)
+write.csv(dough_table, "dough.csv", row.names = FALSE)
+write.csv(cheese_table, "cheese_type.csv", row.names = FALSE)
+write.csv(topping_table, "topping.csv", row.names = FALSE)
+write.csv(orders_fact, "orders.csv", row.names = FALSE)
+
+```
+
+**2-** In this section, OLAP cube got created and named revenue_cube. 
+
+```{r}
+revenue_cube <- 
+    tapply(orders_fact$profit, 
+           orders_fact[,c("size", "month", "year", "loc")], 
+           function(x){return(sum(x))})
+
+revenue_cube
+
+```
+
+**3-** First, lets do a drill down operation to see if it helps.  
+
+```{r}
+apply(revenue_cube, c("year", "month", "size"), 
+      FUN=function(x) {return(sum(x, na.rm=TRUE))})
+revenue_cube
+```
+Now lets do a OLAP roll up operation to get some insight.
+
+```{r}
+apply(revenue_cube, c("year", "size"),
+      FUN=function(x) {return(sum(x, na.rm=TRUE))})
+```
+As can be seen in the above results, costumers tend to buy bigger pizzas and the gap further increased from 2022 to 2023 which means people are beginning to prefer bigger pizzas.
+
+
+
+**Part 2**
+**1-** Firstly, the CSV file is not separated using commas. It is separated using ";" and the first step is to change the delimiter to ";". To do so I adde the attribute "sep = ";"". Then, we build a new data frame with the interested columns using "subset" function.
+
+```{r cars}
+databank.df <- read.csv("/Users/alireza/Desktop/DTI/1- Fall 23//Fundamentals of Applied Data Science/assignment 2/bank-additional-full 2.csv", sep = ";")
+newdatabank.df <- subset(databank.df, select = c(age, education, previous, pdays, y))
+head(newdatabank.df)
+```
+
+**2-** In this section the value 999 gets replaced with "NA".
+
+```{r fig.dim = c(8, 5)}
+newdatabank.df["pdays"][newdatabank.df["pdays"] == 999] <- NA
+head(newdatabank.df)
+```
+
+**3** If we don't change the 999 value to NA, it will effect our analysis and makes this column useless as it wrongly skews the mean of this column. The number 999 is a place holder for missing values and if we leave it as it is in the data it will inflate the data which will lead to inaccurate insights and wrong results of the analysis. Thus, it must be replaced before analyzing pdays column.
+
+**4-** In this section, firstly, I created a new data frame and copy the main data in it. Than, I excluded the NA rows and created the histogram.
+
+```{r}
+new.df <- newdatabank.df
+
+```
+
+```{r fig.dim = c(8, 5)}
+library(tidyr)
+newdatabank.df <- newdatabank.df %>% drop_na()
+hist(newdatabank.df$pdays)
+
+```
+
+**5-** In this section characteristic values got transformed into numeric values as asked.
+
+```{r}
+a <- 1
+newdatabank.df["education"][newdatabank.df["education"] == "illiterate"] <- 0
+newdatabank.df["education"][newdatabank.df["education"] == "basic.4y"] <- 4
+newdatabank.df["education"][newdatabank.df["education"] == "basic.6y"] <- 6
+newdatabank.df["education"][newdatabank.df["education"] == "basic.9y"] <- 9
+newdatabank.df["education"][newdatabank.df["education"] == "high.school"] <- 12
+newdatabank.df["education"][newdatabank.df["education"] == "professional.course"] <- 12 ^ a
+newdatabank.df["education"][newdatabank.df["education"] == "university.degree"] <- 16
+newdatabank.df["education"][newdatabank.df["education"] == "unknown"] <- NA
+newdatabank.df$education <- as.numeric(newdatabank.df$education)
+summary(newdatabank.df)
+```
+**6-** Using mean, median functions we got the results. For calculating mode of the data we should first create a function for it and use it. Function getmode created to calculate the mode. Then, I plotted the boxplot and the 5 number derived from it are as follows: Min = 17 , 1st Quantile = 30, Median = 37, 3rd Quantile = 52. Also, we could use the summary function to find all these statistics. 
+
+```{r fig.dim = c(8, 5)}
+library(ggplot2)
+AGE <- newdatabank.df$age
+mean(AGE)
+median(AGE)
+getmode <- function(v) {
+   uniqv <- unique(v)
+   uniqv[which.max(tabulate(match(v, uniqv)))]
+}
+getmode(AGE)
+ggplot(newdatabank.df, aes(y=AGE)) + 
+    geom_boxplot(fill="slateblue", alpha=0.2) + 
+    xlab("Age")
+summary(AGE)
+```
+
+And Here is the quantile plot.
+```{r fig.dim = c(8, 5)}
+library(ggplot2)
+x <- quantile(AGE) 
+plot(x, type = "l")
+```
+
+
+
+
+
+
+**7-** In this stage, I normalized the age column using the z-score standardization and assigned it to the age_z variable. 
+
+```{r}
+age_z <- (AGE - mean(AGE)) / sd(AGE)
+
+```
+
+**8-** In this stage we detect outliers. While analyzing an standard normal variable, values bigger than 3 and smaller than -3 consider as outliers. In this case, we have 5 outliers.
+
+```{r}
+age_z <- as.data.frame(age_z)
+#head(age_z)
+boxplot(age_z)
+#remove(age_z_out)
+(age_z_out <- age_z$age_z[age_z$age_z > 3 | age_z$age_z < -3])
+```
+
+Also, to show which rows contain this outliers I used the following code. As there were 5 outliers with more than 3 z-score, I can sort the values by the age column and the 5 values that have the highest age are the outliers.
+```{r}
+library(dplyr)
+df2 <- newdatabank.df %>% arrange(desc(age))
+df2[1:5,]
+
+```
+
+
+
+

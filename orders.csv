@@ -1,0 +1,1001 @@
+"month","year","loc","size","dough","cheese","topping","quantity","profit"
+1,2022,"Younge","medium","stuffed crust","cheddar","Pepperoni",2,22
+1,2022,"Papineau","medium","regular","cheddar","Pepperoni",1,11
+1,2022,"Boundary","small","regular","Goda","Tomato",3,27
+1,2022,"Papineau","xlarge","stuffed crust","Goda","Bacon",1,15
+1,2022,"Boundary","large","thin","cheddar","mushroom",1,13
+1,2022,"Bertrand","xlarge","thin","Goda","Pepperoni",2,30
+1,2022,"Papineau","large","stuffed crust","Goda","Pepperoni",1,13
+1,2022,"Papineau","xlarge","stuffed crust","cheddar","Bacon",4,60
+1,2022,"Bertrand","small","regular","cheddar","Bacon",2,18
+1,2022,"Boundary","large","regular","cheddar","Pepperoni",1,13
+1,2022,"Papineau","xlarge","stuffed crust","cheddar","Bacon",4,60
+1,2022,"Boundary","large","stuffed crust","cheddar","Tomato",4,52
+1,2022,"Bertrand","large","stuffed crust","cheddar","Pepperoni",5,65
+1,2022,"Younge","large","regular","Goda","Tomato",2,26
+1,2022,"Papineau","large","stuffed crust","cheddar","Bacon",1,13
+1,2022,"Bank","large","stuffed crust","Goda","Bacon",3,39
+1,2022,"Bank","xlarge","thin","mozzarella","Tomato",2,30
+1,2022,"Bank","large","regular","Goda","Tomato",1,13
+1,2022,"Boundary","xlarge","stuffed crust","cheddar","Bacon",2,30
+1,2022,"Younge","xlarge","stuffed crust","mozzarella","Bacon",1,15
+1,2022,"Boundary","large","regular","cheddar","Bacon",1,13
+1,2022,"Younge","medium","regular","mozzarella","Pepperoni",1,11
+1,2022,"Boundary","large","thin","cheddar","mushroom",2,26
+1,2022,"Bank","xlarge","thin","cheddar","mushroom",1,15
+1,2022,"Boundary","personal","thin","cheddar","mushroom",1,7
+1,2022,"Boundary","personal","regular","mozzarella","Pepperoni",2,14
+1,2022,"Bertrand","large","stuffed crust","cheddar","Bacon",1,13
+1,2022,"Bertrand","medium","thin","Goda","Tomato",1,11
+1,2022,"Younge","medium","thin","Goda","Tomato",3,33
+1,2022,"Papineau","medium","stuffed crust","cheddar","Bacon",2,22
+1,2022,"Boundary","xlarge","stuffed crust","Goda","mushroom",1,15
+1,2022,"Bank","small","regular","cheddar","Tomato",1,9
+1,2022,"Boundary","large","thin","cheddar","Tomato",5,65
+1,2022,"Papineau","xlarge","stuffed crust","Goda","mushroom",1,15
+1,2022,"Bertrand","xlarge","thin","cheddar","Bacon",5,75
+1,2022,"Bertrand","xlarge","stuffed crust","cheddar","Tomato",1,15
+1,2022,"Younge","personal","regular","mozzarella","mushroom",1,7
+1,2022,"Boundary","small","regular","mozzarella","mushroom",1,9
+2,2022,"Papineau","medium","thin","cheddar","mushroom",1,11
+2,2022,"Papineau","small","regular","mozzarella","Tomato",1,9
+2,2022,"Bank","medium","stuffed crust","cheddar","Bacon",3,33
+2,2022,"Younge","xlarge","regular","Goda","Bacon",2,30
+2,2022,"Boundary","large","thin","Goda","Bacon",1,13
+2,2022,"Boundary","xlarge","regular","cheddar","mushroom",5,75
+2,2022,"Papineau","large","stuffed crust","mozzarella","Bacon",2,26
+2,2022,"Younge","personal","thin","mozzarella","mushroom",1,7
+2,2022,"Bertrand","large","thin","mozzarella","Bacon",5,65
+2,2022,"Bank","large","stuffed crust","cheddar","Bacon",2,26
+2,2022,"Bertrand","large","thin","cheddar","Bacon",4,52
+2,2022,"Bertrand","personal","regular","cheddar","mushroom",3,21
+2,2022,"Bank","xlarge","stuffed crust","cheddar","mushroom",3,45
+2,2022,"Younge","xlarge","thin","mozzarella","Tomato",1,15
+2,2022,"Bertrand","xlarge","regular","mozzarella","Bacon",1,15
+2,2022,"Boundary","medium","thin","mozzarella","Tomato",1,11
+2,2022,"Younge","xlarge","regular","mozzarella","mushroom",2,30
+2,2022,"Papineau","large","thin","Goda","mushroom",1,13
+2,2022,"Bank","large","thin","mozzarella","mushroom",4,52
+2,2022,"Boundary","personal","thin","cheddar","mushroom",5,35
+2,2022,"Papineau","xlarge","regular","Goda","Bacon",1,15
+2,2022,"Papineau","small","regular","Goda","Tomato",1,9
+2,2022,"Bank","xlarge","stuffed crust","Goda","Tomato",1,15
+2,2022,"Bank","small","thin","cheddar","mushroom",4,36
+2,2022,"Bertrand","large","regular","mozzarella","Pepperoni",1,13
+2,2022,"Younge","personal","stuffed crust","cheddar","Pepperoni",1,7
+2,2022,"Bank","personal","stuffed crust","Goda","Pepperoni",1,7
+2,2022,"Younge","personal","stuffed crust","cheddar","Tomato",5,35
+2,2022,"Bank","medium","thin","Goda","Tomato",1,11
+2,2022,"Bertrand","xlarge","thin","cheddar","Tomato",3,45
+2,2022,"Papineau","xlarge","thin","cheddar","Pepperoni",1,15
+2,2022,"Boundary","personal","thin","cheddar","mushroom",2,14
+2,2022,"Bank","personal","thin","mozzarella","Bacon",1,7
+2,2022,"Younge","xlarge","thin","mozzarella","Pepperoni",2,30
+2,2022,"Younge","xlarge","regular","Goda","Bacon",2,30
+3,2022,"Papineau","xlarge","regular","mozzarella","Tomato",1,15
+3,2022,"Bank","personal","stuffed crust","cheddar","Bacon",5,35
+3,2022,"Papineau","medium","stuffed crust","cheddar","Tomato",4,44
+3,2022,"Bertrand","large","stuffed crust","Goda","Tomato",1,13
+3,2022,"Bank","large","thin","mozzarella","mushroom",2,26
+3,2022,"Bertrand","xlarge","thin","cheddar","Bacon",1,15
+3,2022,"Boundary","xlarge","thin","Goda","Pepperoni",1,15
+3,2022,"Boundary","large","thin","mozzarella","Pepperoni",2,26
+3,2022,"Papineau","personal","stuffed crust","cheddar","Tomato",3,21
+3,2022,"Bertrand","xlarge","regular","cheddar","mushroom",1,15
+3,2022,"Younge","personal","regular","Goda","Tomato",1,7
+3,2022,"Younge","xlarge","stuffed crust","mozzarella","Tomato",2,30
+3,2022,"Younge","large","stuffed crust","cheddar","Pepperoni",3,39
+3,2022,"Bertrand","large","thin","mozzarella","Tomato",4,52
+3,2022,"Bank","medium","thin","mozzarella","Tomato",1,11
+3,2022,"Bertrand","large","thin","mozzarella","Tomato",2,26
+3,2022,"Boundary","large","regular","cheddar","Bacon",1,13
+3,2022,"Bank","large","thin","Goda","mushroom",2,26
+3,2022,"Bertrand","xlarge","stuffed crust","mozzarella","Pepperoni",1,15
+3,2022,"Younge","small","regular","Goda","Bacon",3,27
+3,2022,"Bertrand","xlarge","regular","mozzarella","Pepperoni",1,15
+3,2022,"Bank","large","thin","Goda","Bacon",3,39
+3,2022,"Younge","medium","thin","mozzarella","Tomato",1,11
+3,2022,"Bertrand","large","regular","cheddar","Pepperoni",2,26
+3,2022,"Bank","xlarge","thin","mozzarella","Tomato",2,30
+3,2022,"Bank","personal","regular","cheddar","mushroom",5,35
+3,2022,"Younge","medium","thin","Goda","Bacon",2,22
+3,2022,"Bank","medium","thin","mozzarella","Bacon",3,33
+3,2022,"Bertrand","xlarge","thin","mozzarella","Tomato",3,45
+3,2022,"Boundary","personal","stuffed crust","cheddar","mushroom",4,28
+3,2022,"Bank","xlarge","regular","Goda","Tomato",1,15
+3,2022,"Younge","large","regular","mozzarella","Tomato",2,26
+3,2022,"Bertrand","medium","thin","Goda","Bacon",1,11
+4,2022,"Bertrand","personal","regular","Goda","Pepperoni",1,7
+4,2022,"Boundary","xlarge","thin","cheddar","mushroom",2,30
+4,2022,"Bank","personal","regular","mozzarella","mushroom",1,7
+4,2022,"Boundary","large","regular","Goda","Tomato",1,13
+4,2022,"Bank","personal","thin","cheddar","Bacon",3,21
+4,2022,"Bertrand","xlarge","stuffed crust","cheddar","mushroom",1,15
+4,2022,"Papineau","medium","regular","mozzarella","Bacon",3,33
+4,2022,"Bertrand","large","regular","Goda","Bacon",5,65
+4,2022,"Papineau","large","regular","mozzarella","mushroom",1,13
+4,2022,"Boundary","medium","thin","cheddar","mushroom",4,44
+4,2022,"Bertrand","personal","stuffed crust","Goda","Pepperoni",2,14
+4,2022,"Boundary","large","thin","cheddar","Tomato",4,52
+4,2022,"Bertrand","personal","thin","mozzarella","Pepperoni",1,7
+4,2022,"Bank","small","thin","cheddar","Tomato",1,9
+4,2022,"Bank","xlarge","stuffed crust","mozzarella","Tomato",2,30
+4,2022,"Younge","large","regular","mozzarella","Pepperoni",2,26
+4,2022,"Younge","large","stuffed crust","cheddar","Pepperoni",1,13
+4,2022,"Younge","personal","regular","mozzarella","Bacon",4,28
+4,2022,"Bank","xlarge","thin","cheddar","Tomato",1,15
+4,2022,"Younge","large","regular","mozzarella","Pepperoni",1,13
+4,2022,"Younge","large","regular","Goda","Tomato",1,13
+4,2022,"Bertrand","personal","regular","mozzarella","mushroom",1,7
+4,2022,"Boundary","xlarge","thin","Goda","Tomato",4,60
+4,2022,"Boundary","large","stuffed crust","Goda","mushroom",1,13
+4,2022,"Younge","small","regular","cheddar","mushroom",4,36
+4,2022,"Boundary","xlarge","regular","mozzarella","Pepperoni",3,45
+4,2022,"Bank","xlarge","thin","cheddar","Bacon",2,30
+4,2022,"Younge","small","regular","cheddar","Pepperoni",4,36
+4,2022,"Bank","xlarge","stuffed crust","mozzarella","mushroom",1,15
+4,2022,"Boundary","personal","thin","cheddar","Bacon",2,14
+4,2022,"Boundary","medium","stuffed crust","mozzarella","Bacon",4,44
+4,2022,"Bank","xlarge","stuffed crust","mozzarella","Bacon",2,30
+4,2022,"Papineau","medium","thin","cheddar","Pepperoni",3,33
+4,2022,"Papineau","xlarge","regular","mozzarella","Bacon",1,15
+4,2022,"Younge","medium","stuffed crust","cheddar","Tomato",1,11
+4,2022,"Bank","large","thin","Goda","mushroom",4,52
+4,2022,"Bank","medium","thin","Goda","Bacon",2,22
+5,2022,"Bertrand","large","stuffed crust","Goda","Tomato",4,52
+5,2022,"Papineau","large","thin","cheddar","Bacon",1,13
+5,2022,"Bertrand","small","regular","cheddar","Tomato",1,9
+5,2022,"Bertrand","xlarge","stuffed crust","Goda","Pepperoni",3,45
+5,2022,"Bertrand","large","stuffed crust","cheddar","Bacon",1,13
+5,2022,"Younge","personal","regular","cheddar","Pepperoni",5,35
+5,2022,"Papineau","large","stuffed crust","cheddar","Bacon",1,13
+5,2022,"Bank","large","regular","Goda","mushroom",1,13
+5,2022,"Bertrand","personal","regular","cheddar","Bacon",5,35
+5,2022,"Bank","xlarge","regular","cheddar","Tomato",3,45
+5,2022,"Bertrand","personal","thin","mozzarella","mushroom",1,7
+5,2022,"Younge","small","thin","cheddar","Pepperoni",1,9
+5,2022,"Boundary","large","stuffed crust","mozzarella","mushroom",1,13
+5,2022,"Papineau","small","regular","mozzarella","Tomato",1,9
+5,2022,"Papineau","xlarge","regular","cheddar","mushroom",5,75
+5,2022,"Younge","personal","thin","cheddar","Bacon",1,7
+5,2022,"Younge","xlarge","regular","Goda","Bacon",1,15
+5,2022,"Bank","personal","thin","cheddar","Tomato",3,21
+5,2022,"Boundary","personal","regular","mozzarella","Bacon",1,7
+5,2022,"Bertrand","medium","stuffed crust","cheddar","Bacon",2,22
+5,2022,"Boundary","small","regular","Goda","mushroom",3,27
+5,2022,"Bertrand","xlarge","stuffed crust","cheddar","Bacon",1,15
+5,2022,"Papineau","xlarge","thin","cheddar","mushroom",2,30
+5,2022,"Bank","medium","thin","mozzarella","mushroom",5,55
+5,2022,"Papineau","small","stuffed crust","Goda","mushroom",2,18
+5,2022,"Younge","large","stuffed crust","Goda","Bacon",5,65
+5,2022,"Bank","medium","regular","cheddar","Tomato",1,11
+5,2022,"Younge","xlarge","regular","cheddar","mushroom",3,45
+5,2022,"Papineau","large","stuffed crust","mozzarella","Bacon",5,65
+5,2022,"Bertrand","large","regular","cheddar","mushroom",1,13
+5,2022,"Younge","xlarge","regular","Goda","mushroom",4,60
+5,2022,"Younge","medium","regular","mozzarella","Tomato",2,22
+5,2022,"Bertrand","small","thin","mozzarella","Bacon",1,9
+5,2022,"Bank","personal","regular","cheddar","Bacon",1,7
+5,2022,"Boundary","personal","thin","Goda","Tomato",2,14
+5,2022,"Boundary","medium","regular","mozzarella","mushroom",2,22
+5,2022,"Bank","personal","stuffed crust","mozzarella","Pepperoni",1,7
+5,2022,"Bank","personal","stuffed crust","cheddar","Pepperoni",1,7
+6,2022,"Bank","large","regular","mozzarella","Tomato",2,26
+6,2022,"Papineau","large","stuffed crust","cheddar","Pepperoni",2,26
+6,2022,"Bertrand","large","regular","Goda","Bacon",1,13
+6,2022,"Bertrand","personal","stuffed crust","cheddar","Tomato",4,28
+6,2022,"Bank","personal","thin","mozzarella","Tomato",1,7
+6,2022,"Papineau","medium","thin","cheddar","mushroom",4,44
+6,2022,"Younge","large","stuffed crust","Goda","Pepperoni",1,13
+6,2022,"Bertrand","small","thin","cheddar","Pepperoni",2,18
+6,2022,"Bertrand","xlarge","regular","Goda","Tomato",4,60
+6,2022,"Papineau","medium","regular","cheddar","Pepperoni",1,11
+6,2022,"Bertrand","medium","regular","cheddar","Tomato",3,33
+6,2022,"Younge","xlarge","thin","mozzarella","Tomato",1,15
+6,2022,"Bertrand","xlarge","stuffed crust","cheddar","Bacon",1,15
+6,2022,"Younge","small","thin","cheddar","Tomato",4,36
+6,2022,"Boundary","large","thin","Goda","Bacon",1,13
+6,2022,"Bank","personal","stuffed crust","cheddar","Bacon",4,28
+6,2022,"Younge","large","stuffed crust","Goda","Bacon",5,65
+6,2022,"Papineau","small","thin","cheddar","mushroom",2,18
+6,2022,"Papineau","large","stuffed crust","mozzarella","mushroom",3,39
+6,2022,"Younge","personal","thin","Goda","mushroom",2,14
+6,2022,"Younge","medium","thin","cheddar","mushroom",1,11
+6,2022,"Younge","medium","thin","cheddar","Tomato",3,33
+6,2022,"Bertrand","medium","thin","cheddar","Bacon",2,22
+6,2022,"Boundary","medium","stuffed crust","cheddar","Pepperoni",1,11
+6,2022,"Bertrand","xlarge","stuffed crust","cheddar","Pepperoni",2,30
+6,2022,"Boundary","xlarge","regular","mozzarella","mushroom",5,75
+6,2022,"Younge","personal","thin","Goda","mushroom",1,7
+6,2022,"Younge","xlarge","regular","Goda","Tomato",2,30
+6,2022,"Bertrand","personal","stuffed crust","cheddar","mushroom",4,28
+6,2022,"Bertrand","large","stuffed crust","Goda","Tomato",1,13
+6,2022,"Bank","large","thin","cheddar","Tomato",1,13
+7,2022,"Younge","xlarge","thin","cheddar","Tomato",2,30
+7,2022,"Papineau","large","stuffed crust","cheddar","mushroom",1,13
+7,2022,"Bertrand","medium","thin","cheddar","Tomato",3,33
+7,2022,"Papineau","medium","stuffed crust","cheddar","Pepperoni",1,11
+7,2022,"Bank","medium","stuffed crust","cheddar","mushroom",1,11
+7,2022,"Boundary","personal","stuffed crust","cheddar","Pepperoni",1,7
+7,2022,"Papineau","large","stuffed crust","cheddar","mushroom",2,26
+7,2022,"Boundary","xlarge","stuffed crust","cheddar","mushroom",1,15
+7,2022,"Papineau","small","thin","Goda","mushroom",5,45
+7,2022,"Boundary","large","regular","Goda","Bacon",2,26
+7,2022,"Bank","small","thin","mozzarella","Tomato",1,9
+7,2022,"Bank","small","stuffed crust","mozzarella","mushroom",1,9
+7,2022,"Bank","small","thin","mozzarella","Pepperoni",3,27
+7,2022,"Younge","xlarge","stuffed crust","cheddar","Bacon",4,60
+7,2022,"Younge","large","thin","cheddar","Bacon",1,13
+7,2022,"Younge","xlarge","regular","mozzarella","mushroom",4,60
+7,2022,"Papineau","xlarge","regular","mozzarella","Tomato",1,15
+7,2022,"Bank","large","regular","Goda","Bacon",1,13
+7,2022,"Bertrand","medium","stuffed crust","cheddar","Tomato",2,22
+7,2022,"Younge","xlarge","thin","mozzarella","Bacon",1,15
+7,2022,"Younge","medium","thin","mozzarella","mushroom",1,11
+7,2022,"Boundary","large","regular","Goda","mushroom",1,13
+7,2022,"Younge","xlarge","thin","Goda","Bacon",1,15
+7,2022,"Boundary","xlarge","regular","mozzarella","Bacon",1,15
+7,2022,"Boundary","large","thin","Goda","mushroom",4,52
+7,2022,"Bank","xlarge","stuffed crust","mozzarella","Bacon",3,45
+7,2022,"Younge","xlarge","thin","Goda","mushroom",3,45
+7,2022,"Younge","xlarge","stuffed crust","Goda","Pepperoni",1,15
+8,2022,"Boundary","xlarge","regular","cheddar","Bacon",5,75
+8,2022,"Bank","small","thin","Goda","Bacon",3,27
+8,2022,"Boundary","large","stuffed crust","mozzarella","Pepperoni",1,13
+8,2022,"Bank","personal","thin","Goda","Bacon",1,7
+8,2022,"Bank","large","regular","Goda","Tomato",4,52
+8,2022,"Papineau","small","thin","Goda","Pepperoni",2,18
+8,2022,"Younge","personal","thin","cheddar","Bacon",1,7
+8,2022,"Boundary","xlarge","thin","mozzarella","Pepperoni",1,15
+8,2022,"Bank","xlarge","stuffed crust","cheddar","Pepperoni",3,45
+8,2022,"Younge","medium","thin","Goda","Tomato",5,55
+8,2022,"Bertrand","large","thin","cheddar","Pepperoni",5,65
+8,2022,"Younge","large","thin","Goda","Pepperoni",1,13
+8,2022,"Bank","small","regular","Goda","Bacon",3,27
+8,2022,"Boundary","personal","regular","Goda","Tomato",2,14
+8,2022,"Papineau","xlarge","regular","Goda","Bacon",1,15
+8,2022,"Bertrand","small","thin","Goda","Tomato",1,9
+8,2022,"Bertrand","xlarge","regular","cheddar","Pepperoni",1,15
+8,2022,"Papineau","xlarge","stuffed crust","mozzarella","Bacon",4,60
+8,2022,"Boundary","personal","regular","mozzarella","Bacon",3,21
+8,2022,"Bank","xlarge","regular","cheddar","Bacon",2,30
+8,2022,"Bertrand","xlarge","thin","cheddar","Tomato",3,45
+8,2022,"Boundary","small","thin","mozzarella","mushroom",3,27
+8,2022,"Papineau","xlarge","regular","mozzarella","Tomato",2,30
+8,2022,"Younge","large","stuffed crust","mozzarella","Tomato",3,39
+8,2022,"Bertrand","small","thin","cheddar","Pepperoni",3,27
+8,2022,"Younge","large","thin","mozzarella","Pepperoni",5,65
+8,2022,"Boundary","small","thin","mozzarella","Pepperoni",1,9
+9,2022,"Bertrand","large","regular","mozzarella","mushroom",1,13
+9,2022,"Bertrand","large","thin","mozzarella","Bacon",1,13
+9,2022,"Bertrand","small","regular","Goda","Tomato",1,9
+9,2022,"Younge","small","regular","cheddar","mushroom",1,9
+9,2022,"Bertrand","xlarge","regular","Goda","Pepperoni",1,15
+9,2022,"Papineau","personal","stuffed crust","mozzarella","Pepperoni",2,14
+9,2022,"Papineau","xlarge","thin","cheddar","Tomato",1,15
+9,2022,"Boundary","small","stuffed crust","cheddar","Tomato",5,45
+9,2022,"Boundary","xlarge","regular","cheddar","mushroom",4,60
+9,2022,"Bank","medium","thin","Goda","Bacon",3,33
+9,2022,"Younge","large","stuffed crust","cheddar","Tomato",5,65
+9,2022,"Bank","large","stuffed crust","mozzarella","Bacon",1,13
+9,2022,"Bank","medium","stuffed crust","cheddar","Bacon",1,11
+9,2022,"Younge","large","thin","Goda","mushroom",1,13
+9,2022,"Bertrand","small","stuffed crust","cheddar","Bacon",3,27
+9,2022,"Younge","medium","thin","Goda","Pepperoni",1,11
+9,2022,"Bertrand","xlarge","stuffed crust","mozzarella","Bacon",2,30
+9,2022,"Bank","xlarge","stuffed crust","mozzarella","Bacon",2,30
+9,2022,"Papineau","large","thin","Goda","Pepperoni",1,13
+9,2022,"Boundary","xlarge","regular","cheddar","Bacon",1,15
+9,2022,"Boundary","medium","thin","cheddar","Bacon",1,11
+9,2022,"Bertrand","small","regular","cheddar","mushroom",1,9
+9,2022,"Papineau","small","regular","Goda","mushroom",2,18
+9,2022,"Younge","medium","regular","Goda","Bacon",3,33
+9,2022,"Boundary","xlarge","regular","mozzarella","mushroom",3,45
+10,2022,"Bank","large","thin","mozzarella","Bacon",1,13
+10,2022,"Papineau","small","stuffed crust","Goda","Bacon",1,9
+10,2022,"Boundary","xlarge","stuffed crust","cheddar","Pepperoni",1,15
+10,2022,"Papineau","small","stuffed crust","cheddar","Bacon",1,9
+10,2022,"Younge","large","thin","cheddar","Pepperoni",2,26
+10,2022,"Papineau","large","thin","mozzarella","mushroom",3,39
+10,2022,"Papineau","xlarge","stuffed crust","cheddar","Pepperoni",1,15
+10,2022,"Papineau","large","thin","Goda","Bacon",2,26
+10,2022,"Bertrand","xlarge","regular","Goda","mushroom",1,15
+10,2022,"Bank","large","thin","cheddar","mushroom",1,13
+10,2022,"Bertrand","small","regular","mozzarella","Tomato",1,9
+10,2022,"Younge","large","thin","cheddar","Tomato",2,26
+10,2022,"Boundary","large","stuffed crust","mozzarella","mushroom",1,13
+10,2022,"Papineau","large","regular","mozzarella","Pepperoni",1,13
+10,2022,"Bertrand","personal","stuffed crust","mozzarella","Tomato",3,21
+10,2022,"Bertrand","xlarge","regular","mozzarella","Bacon",1,15
+10,2022,"Bank","xlarge","stuffed crust","cheddar","Tomato",1,15
+10,2022,"Papineau","personal","thin","Goda","Pepperoni",2,14
+10,2022,"Younge","large","thin","mozzarella","Bacon",5,65
+10,2022,"Younge","large","thin","Goda","Bacon",1,13
+10,2022,"Boundary","small","stuffed crust","Goda","Tomato",1,9
+10,2022,"Bertrand","large","thin","cheddar","mushroom",2,26
+10,2022,"Bertrand","small","thin","cheddar","Tomato",1,9
+10,2022,"Bank","small","thin","cheddar","Tomato",2,18
+10,2022,"Younge","large","thin","cheddar","mushroom",1,13
+10,2022,"Bertrand","large","regular","Goda","Tomato",4,52
+10,2022,"Boundary","personal","stuffed crust","Goda","Pepperoni",2,14
+11,2022,"Boundary","xlarge","regular","cheddar","Bacon",4,60
+11,2022,"Younge","xlarge","regular","Goda","mushroom",1,15
+11,2022,"Boundary","large","stuffed crust","Goda","Bacon",1,13
+11,2022,"Papineau","small","stuffed crust","mozzarella","mushroom",4,36
+11,2022,"Bank","medium","stuffed crust","mozzarella","mushroom",5,55
+11,2022,"Papineau","personal","regular","mozzarella","Bacon",4,28
+11,2022,"Bank","xlarge","regular","Goda","Pepperoni",1,15
+11,2022,"Younge","xlarge","stuffed crust","mozzarella","Bacon",1,15
+11,2022,"Papineau","small","stuffed crust","cheddar","Bacon",1,9
+11,2022,"Bank","personal","thin","mozzarella","Tomato",2,14
+11,2022,"Boundary","small","thin","cheddar","Pepperoni",4,36
+11,2022,"Boundary","large","stuffed crust","mozzarella","Tomato",4,52
+11,2022,"Bertrand","large","regular","Goda","Bacon",1,13
+11,2022,"Bertrand","medium","thin","Goda","Tomato",2,22
+11,2022,"Bank","personal","thin","cheddar","mushroom",2,14
+11,2022,"Younge","xlarge","stuffed crust","cheddar","Bacon",1,15
+11,2022,"Bertrand","large","stuffed crust","mozzarella","Tomato",4,52
+11,2022,"Younge","small","stuffed crust","Goda","Pepperoni",3,27
+11,2022,"Bertrand","large","regular","cheddar","Bacon",1,13
+11,2022,"Bank","xlarge","regular","cheddar","Bacon",1,15
+11,2022,"Bank","medium","regular","Goda","mushroom",1,11
+11,2022,"Bank","small","regular","Goda","Bacon",4,36
+11,2022,"Boundary","xlarge","stuffed crust","cheddar","Pepperoni",4,60
+11,2022,"Bank","xlarge","thin","mozzarella","Bacon",1,15
+11,2022,"Boundary","xlarge","stuffed crust","cheddar","Bacon",1,15
+11,2022,"Boundary","medium","regular","mozzarella","mushroom",1,11
+11,2022,"Younge","xlarge","regular","Goda","mushroom",2,30
+11,2022,"Bank","xlarge","regular","cheddar","Bacon",2,30
+11,2022,"Papineau","small","stuffed crust","mozzarella","Bacon",2,18
+11,2022,"Papineau","small","stuffed crust","cheddar","mushroom",1,9
+11,2022,"Bank","medium","stuffed crust","mozzarella","mushroom",1,11
+12,2022,"Younge","xlarge","regular","mozzarella","Bacon",1,15
+12,2022,"Bertrand","large","thin","cheddar","Pepperoni",1,13
+12,2022,"Boundary","xlarge","stuffed crust","cheddar","Tomato",1,15
+12,2022,"Boundary","small","stuffed crust","Goda","Pepperoni",2,18
+12,2022,"Bertrand","xlarge","stuffed crust","mozzarella","Tomato",1,15
+12,2022,"Papineau","xlarge","regular","Goda","mushroom",1,15
+12,2022,"Bank","small","stuffed crust","mozzarella","mushroom",1,9
+12,2022,"Bertrand","xlarge","thin","Goda","Pepperoni",3,45
+12,2022,"Bank","xlarge","thin","cheddar","mushroom",4,60
+12,2022,"Bertrand","medium","regular","mozzarella","Tomato",1,11
+12,2022,"Younge","personal","thin","mozzarella","Tomato",1,7
+12,2022,"Younge","large","thin","mozzarella","Pepperoni",1,13
+12,2022,"Bertrand","xlarge","regular","mozzarella","Bacon",3,45
+12,2022,"Bertrand","large","thin","mozzarella","Pepperoni",2,26
+12,2022,"Bank","medium","regular","Goda","Tomato",1,11
+12,2022,"Younge","xlarge","thin","mozzarella","Pepperoni",3,45
+12,2022,"Papineau","small","stuffed crust","mozzarella","Bacon",4,36
+12,2022,"Papineau","xlarge","thin","cheddar","mushroom",3,45
+12,2022,"Papineau","large","thin","cheddar","mushroom",1,13
+12,2022,"Boundary","xlarge","thin","Goda","Bacon",2,30
+12,2022,"Bank","personal","regular","cheddar","mushroom",4,28
+12,2022,"Boundary","personal","thin","cheddar","Tomato",1,7
+12,2022,"Papineau","medium","regular","Goda","Bacon",2,22
+12,2022,"Bank","large","stuffed crust","mozzarella","Tomato",1,13
+12,2022,"Papineau","xlarge","stuffed crust","Goda","Bacon",1,15
+12,2022,"Papineau","large","thin","cheddar","mushroom",1,13
+12,2022,"Papineau","xlarge","thin","cheddar","Bacon",1,15
+12,2022,"Bank","personal","regular","cheddar","Tomato",5,35
+12,2022,"Boundary","small","regular","cheddar","Tomato",3,27
+12,2022,"Papineau","xlarge","regular","Goda","Bacon",1,15
+12,2022,"Bank","xlarge","thin","mozzarella","Bacon",2,30
+12,2022,"Bank","large","stuffed crust","Goda","Bacon",1,13
+1,2023,"Bank","personal","stuffed crust","Goda","Pepperoni",4,28
+1,2023,"Bertrand","xlarge","regular","Goda","Bacon",3,45
+1,2023,"Bank","personal","stuffed crust","mozzarella","Pepperoni",4,28
+1,2023,"Younge","personal","thin","Goda","Pepperoni",1,7
+1,2023,"Younge","xlarge","regular","Goda","mushroom",1,15
+1,2023,"Younge","large","regular","cheddar","Tomato",1,13
+1,2023,"Papineau","xlarge","regular","Goda","mushroom",1,15
+1,2023,"Papineau","xlarge","thin","cheddar","Pepperoni",1,15
+1,2023,"Younge","medium","thin","Goda","Tomato",3,33
+1,2023,"Younge","medium","stuffed crust","Goda","Bacon",3,33
+1,2023,"Boundary","large","thin","Goda","Tomato",1,13
+1,2023,"Bank","large","regular","cheddar","mushroom",1,13
+1,2023,"Papineau","large","stuffed crust","Goda","Bacon",1,13
+1,2023,"Younge","personal","stuffed crust","mozzarella","Tomato",1,7
+1,2023,"Papineau","large","thin","Goda","mushroom",2,26
+1,2023,"Bank","medium","regular","Goda","Bacon",1,11
+1,2023,"Papineau","large","stuffed crust","Goda","Pepperoni",1,13
+1,2023,"Bertrand","medium","regular","Goda","Bacon",1,11
+1,2023,"Papineau","personal","regular","cheddar","mushroom",1,7
+1,2023,"Bank","xlarge","stuffed crust","mozzarella","Bacon",1,15
+1,2023,"Boundary","xlarge","thin","cheddar","Tomato",2,30
+1,2023,"Papineau","large","thin","cheddar","Tomato",2,26
+1,2023,"Papineau","xlarge","stuffed crust","Goda","Pepperoni",1,15
+1,2023,"Younge","xlarge","regular","mozzarella","Bacon",2,30
+1,2023,"Papineau","xlarge","stuffed crust","cheddar","Tomato",1,15
+1,2023,"Boundary","xlarge","thin","Goda","mushroom",3,45
+1,2023,"Bank","small","thin","Goda","Bacon",2,18
+1,2023,"Papineau","large","stuffed crust","Goda","Tomato",2,26
+1,2023,"Boundary","personal","stuffed crust","mozzarella","mushroom",3,21
+1,2023,"Younge","large","thin","cheddar","Tomato",4,52
+1,2023,"Bertrand","xlarge","thin","mozzarella","Bacon",1,15
+1,2023,"Younge","personal","stuffed crust","Goda","mushroom",1,7
+1,2023,"Younge","medium","thin","mozzarella","Tomato",1,11
+1,2023,"Bertrand","personal","stuffed crust","cheddar","mushroom",5,35
+1,2023,"Younge","large","thin","Goda","Pepperoni",2,26
+1,2023,"Younge","large","regular","Goda","Tomato",2,26
+1,2023,"Bank","small","regular","Goda","Pepperoni",5,45
+1,2023,"Boundary","xlarge","stuffed crust","Goda","mushroom",3,45
+1,2023,"Bertrand","large","regular","cheddar","mushroom",5,65
+1,2023,"Boundary","large","stuffed crust","mozzarella","mushroom",1,13
+1,2023,"Bertrand","personal","thin","Goda","Bacon",4,28
+1,2023,"Younge","medium","stuffed crust","mozzarella","Bacon",2,22
+1,2023,"Bank","large","stuffed crust","Goda","mushroom",1,13
+1,2023,"Bertrand","personal","thin","Goda","Tomato",1,7
+1,2023,"Boundary","small","thin","Goda","mushroom",1,9
+1,2023,"Papineau","medium","thin","cheddar","mushroom",1,11
+1,2023,"Younge","large","regular","mozzarella","mushroom",1,13
+1,2023,"Bertrand","medium","regular","mozzarella","Pepperoni",2,22
+1,2023,"Papineau","small","stuffed crust","Goda","Bacon",1,9
+1,2023,"Bank","large","regular","mozzarella","mushroom",1,13
+1,2023,"Bertrand","xlarge","thin","Goda","mushroom",1,15
+1,2023,"Bertrand","personal","regular","mozzarella","Tomato",1,7
+1,2023,"Papineau","large","thin","cheddar","Pepperoni",4,52
+1,2023,"Bank","xlarge","regular","Goda","Pepperoni",2,30
+1,2023,"Bertrand","large","stuffed crust","Goda","Tomato",1,13
+2,2023,"Bertrand","xlarge","thin","cheddar","Pepperoni",1,15
+2,2023,"Younge","small","thin","cheddar","Tomato",2,18
+2,2023,"Younge","personal","thin","mozzarella","Pepperoni",1,7
+2,2023,"Younge","medium","stuffed crust","mozzarella","Bacon",2,22
+2,2023,"Bank","xlarge","regular","mozzarella","Bacon",2,30
+2,2023,"Bank","xlarge","regular","mozzarella","mushroom",1,15
+2,2023,"Younge","large","stuffed crust","Goda","Pepperoni",1,13
+2,2023,"Younge","medium","thin","cheddar","Bacon",5,55
+2,2023,"Bank","small","stuffed crust","cheddar","mushroom",4,36
+2,2023,"Bertrand","xlarge","regular","Goda","Pepperoni",5,75
+2,2023,"Boundary","small","thin","cheddar","Pepperoni",1,9
+2,2023,"Bank","large","stuffed crust","Goda","mushroom",1,13
+2,2023,"Boundary","small","regular","cheddar","Pepperoni",1,9
+2,2023,"Bertrand","personal","regular","Goda","mushroom",4,28
+2,2023,"Bank","xlarge","thin","cheddar","Pepperoni",5,75
+2,2023,"Bank","large","thin","Goda","Tomato",1,13
+2,2023,"Papineau","xlarge","stuffed crust","cheddar","Bacon",1,15
+2,2023,"Bank","medium","stuffed crust","Goda","Tomato",1,11
+2,2023,"Bertrand","personal","regular","cheddar","Bacon",2,14
+2,2023,"Younge","small","thin","mozzarella","Pepperoni",4,36
+2,2023,"Bank","small","regular","cheddar","Pepperoni",1,9
+2,2023,"Boundary","xlarge","stuffed crust","mozzarella","Tomato",5,75
+2,2023,"Bertrand","large","stuffed crust","mozzarella","Tomato",1,13
+2,2023,"Bertrand","xlarge","regular","Goda","Pepperoni",1,15
+2,2023,"Boundary","personal","regular","Goda","mushroom",1,7
+2,2023,"Boundary","medium","thin","cheddar","Bacon",4,44
+2,2023,"Bank","large","stuffed crust","mozzarella","Tomato",1,13
+2,2023,"Boundary","small","stuffed crust","mozzarella","mushroom",1,9
+2,2023,"Younge","personal","stuffed crust","cheddar","mushroom",4,28
+2,2023,"Boundary","large","thin","cheddar","Pepperoni",1,13
+2,2023,"Papineau","medium","regular","cheddar","Pepperoni",1,11
+2,2023,"Bank","large","regular","mozzarella","Bacon",2,26
+2,2023,"Bank","personal","regular","mozzarella","Tomato",1,7
+2,2023,"Bertrand","large","stuffed crust","cheddar","Bacon",1,13
+2,2023,"Bank","xlarge","thin","mozzarella","mushroom",1,15
+2,2023,"Boundary","xlarge","stuffed crust","mozzarella","Tomato",1,15
+2,2023,"Bertrand","medium","stuffed crust","mozzarella","Pepperoni",2,22
+2,2023,"Papineau","xlarge","stuffed crust","mozzarella","Bacon",1,15
+2,2023,"Bertrand","medium","stuffed crust","Goda","Tomato",5,55
+2,2023,"Bertrand","personal","stuffed crust","cheddar","mushroom",1,7
+2,2023,"Bank","personal","regular","cheddar","Tomato",3,21
+2,2023,"Bertrand","xlarge","thin","cheddar","Pepperoni",3,45
+2,2023,"Younge","xlarge","thin","mozzarella","Bacon",4,60
+2,2023,"Bank","xlarge","regular","Goda","Bacon",2,30
+2,2023,"Younge","xlarge","thin","cheddar","Pepperoni",5,75
+2,2023,"Bertrand","large","regular","mozzarella","Pepperoni",1,13
+2,2023,"Bertrand","xlarge","regular","Goda","Tomato",1,15
+2,2023,"Bertrand","medium","thin","cheddar","Tomato",1,11
+3,2023,"Younge","medium","regular","Goda","Tomato",2,22
+3,2023,"Bank","personal","thin","cheddar","mushroom",1,7
+3,2023,"Papineau","xlarge","regular","cheddar","mushroom",1,15
+3,2023,"Boundary","medium","thin","cheddar","Pepperoni",1,11
+3,2023,"Boundary","large","thin","mozzarella","Bacon",2,26
+3,2023,"Bank","large","stuffed crust","cheddar","mushroom",1,13
+3,2023,"Boundary","xlarge","thin","cheddar","Pepperoni",2,30
+3,2023,"Younge","personal","regular","Goda","Bacon",2,14
+3,2023,"Younge","large","stuffed crust","cheddar","Bacon",2,26
+3,2023,"Bank","large","thin","mozzarella","Tomato",1,13
+3,2023,"Papineau","xlarge","thin","Goda","Tomato",3,45
+3,2023,"Papineau","medium","thin","cheddar","Tomato",3,33
+3,2023,"Papineau","personal","stuffed crust","Goda","Tomato",1,7
+3,2023,"Boundary","personal","thin","Goda","mushroom",1,7
+3,2023,"Papineau","medium","stuffed crust","mozzarella","Tomato",1,11
+3,2023,"Bertrand","large","regular","Goda","mushroom",1,13
+3,2023,"Younge","large","regular","mozzarella","Pepperoni",2,26
+3,2023,"Boundary","large","thin","mozzarella","mushroom",2,26
+3,2023,"Boundary","large","regular","Goda","Bacon",5,65
+3,2023,"Boundary","xlarge","regular","Goda","mushroom",1,15
+3,2023,"Boundary","small","stuffed crust","mozzarella","Bacon",1,9
+3,2023,"Boundary","large","thin","mozzarella","Tomato",5,65
+3,2023,"Younge","medium","thin","mozzarella","Pepperoni",2,22
+3,2023,"Papineau","large","thin","Goda","Bacon",4,52
+3,2023,"Boundary","medium","stuffed crust","cheddar","Bacon",1,11
+3,2023,"Bank","personal","stuffed crust","Goda","Bacon",4,28
+3,2023,"Papineau","small","stuffed crust","Goda","mushroom",1,9
+3,2023,"Bertrand","personal","stuffed crust","Goda","Bacon",2,14
+3,2023,"Boundary","xlarge","thin","Goda","Tomato",2,30
+3,2023,"Bank","medium","regular","cheddar","Bacon",2,22
+3,2023,"Papineau","xlarge","thin","cheddar","Pepperoni",5,75
+3,2023,"Papineau","large","stuffed crust","cheddar","Bacon",2,26
+3,2023,"Bank","large","regular","cheddar","Pepperoni",1,13
+3,2023,"Bertrand","large","thin","mozzarella","Bacon",1,13
+3,2023,"Bertrand","personal","stuffed crust","cheddar","Pepperoni",5,35
+3,2023,"Bertrand","personal","regular","Goda","Bacon",1,7
+3,2023,"Papineau","medium","regular","Goda","Tomato",1,11
+3,2023,"Bertrand","personal","regular","cheddar","Bacon",1,7
+3,2023,"Bertrand","xlarge","regular","cheddar","Bacon",1,15
+3,2023,"Papineau","large","regular","cheddar","mushroom",1,13
+3,2023,"Bertrand","xlarge","thin","mozzarella","Pepperoni",1,15
+3,2023,"Boundary","large","regular","cheddar","Tomato",1,13
+3,2023,"Papineau","medium","regular","Goda","Bacon",1,11
+3,2023,"Boundary","xlarge","stuffed crust","cheddar","Bacon",3,45
+3,2023,"Bank","medium","regular","Goda","Bacon",1,11
+3,2023,"Papineau","xlarge","stuffed crust","mozzarella","Tomato",4,60
+3,2023,"Papineau","small","thin","mozzarella","Tomato",1,9
+3,2023,"Papineau","medium","thin","mozzarella","mushroom",1,11
+3,2023,"Papineau","xlarge","stuffed crust","Goda","Pepperoni",1,15
+3,2023,"Papineau","large","stuffed crust","cheddar","Tomato",1,13
+3,2023,"Papineau","large","thin","cheddar","Pepperoni",3,39
+3,2023,"Boundary","xlarge","thin","Goda","Tomato",2,30
+3,2023,"Bank","large","stuffed crust","mozzarella","Tomato",5,65
+3,2023,"Papineau","medium","regular","mozzarella","mushroom",2,22
+3,2023,"Boundary","xlarge","thin","mozzarella","Pepperoni",3,45
+3,2023,"Bertrand","personal","thin","mozzarella","Pepperoni",5,35
+3,2023,"Papineau","personal","thin","mozzarella","Pepperoni",1,7
+3,2023,"Papineau","small","thin","Goda","mushroom",2,18
+3,2023,"Younge","medium","stuffed crust","mozzarella","Pepperoni",1,11
+3,2023,"Boundary","xlarge","stuffed crust","Goda","Tomato",4,60
+3,2023,"Younge","medium","thin","Goda","Bacon",1,11
+3,2023,"Bank","medium","regular","Goda","Bacon",1,11
+3,2023,"Papineau","small","thin","cheddar","mushroom",5,45
+3,2023,"Boundary","medium","regular","Goda","Bacon",2,22
+3,2023,"Younge","large","stuffed crust","mozzarella","mushroom",1,13
+3,2023,"Bank","small","regular","mozzarella","Tomato",2,18
+3,2023,"Boundary","personal","thin","mozzarella","Bacon",1,7
+4,2023,"Younge","small","stuffed crust","Goda","Pepperoni",3,27
+4,2023,"Bertrand","medium","regular","Goda","Bacon",1,11
+4,2023,"Bertrand","personal","regular","cheddar","Tomato",2,14
+4,2023,"Bank","personal","stuffed crust","Goda","mushroom",2,14
+4,2023,"Boundary","medium","regular","cheddar","Bacon",1,11
+4,2023,"Bank","small","regular","cheddar","mushroom",1,9
+4,2023,"Bank","medium","thin","Goda","Tomato",1,11
+4,2023,"Papineau","large","regular","mozzarella","Tomato",5,65
+4,2023,"Bertrand","xlarge","regular","Goda","Pepperoni",3,45
+4,2023,"Bertrand","small","stuffed crust","cheddar","Tomato",1,9
+4,2023,"Younge","xlarge","thin","mozzarella","Bacon",2,30
+4,2023,"Younge","large","regular","Goda","Pepperoni",5,65
+4,2023,"Bertrand","xlarge","stuffed crust","cheddar","Tomato",3,45
+4,2023,"Boundary","medium","thin","cheddar","Tomato",3,33
+4,2023,"Bank","medium","stuffed crust","mozzarella","Bacon",1,11
+4,2023,"Bank","xlarge","stuffed crust","cheddar","mushroom",2,30
+4,2023,"Bertrand","personal","stuffed crust","mozzarella","Tomato",1,7
+4,2023,"Papineau","large","regular","mozzarella","mushroom",1,13
+4,2023,"Bertrand","medium","stuffed crust","Goda","Tomato",3,33
+4,2023,"Boundary","large","thin","mozzarella","Pepperoni",3,39
+4,2023,"Younge","personal","regular","cheddar","Bacon",1,7
+4,2023,"Bank","personal","stuffed crust","cheddar","Bacon",2,14
+4,2023,"Bertrand","xlarge","stuffed crust","Goda","Bacon",1,15
+4,2023,"Papineau","small","stuffed crust","Goda","mushroom",1,9
+4,2023,"Boundary","medium","regular","Goda","Tomato",1,11
+4,2023,"Bank","large","stuffed crust","Goda","mushroom",2,26
+4,2023,"Younge","large","regular","mozzarella","Pepperoni",1,13
+4,2023,"Boundary","large","stuffed crust","cheddar","Tomato",4,52
+4,2023,"Boundary","small","stuffed crust","cheddar","Pepperoni",2,18
+4,2023,"Bank","xlarge","thin","Goda","Pepperoni",1,15
+4,2023,"Boundary","large","thin","Goda","Bacon",1,13
+4,2023,"Boundary","large","stuffed crust","Goda","Pepperoni",1,13
+4,2023,"Papineau","xlarge","thin","cheddar","Tomato",2,30
+4,2023,"Bertrand","small","stuffed crust","cheddar","Tomato",1,9
+4,2023,"Boundary","small","regular","cheddar","Bacon",2,18
+4,2023,"Bertrand","large","stuffed crust","Goda","Pepperoni",2,26
+4,2023,"Younge","large","stuffed crust","mozzarella","Pepperoni",1,13
+4,2023,"Younge","medium","thin","mozzarella","Bacon",1,11
+4,2023,"Papineau","medium","regular","mozzarella","Bacon",2,22
+4,2023,"Papineau","medium","stuffed crust","mozzarella","Bacon",2,22
+4,2023,"Bertrand","large","regular","Goda","mushroom",4,52
+4,2023,"Papineau","medium","regular","cheddar","Pepperoni",1,11
+4,2023,"Bertrand","small","regular","Goda","mushroom",1,9
+4,2023,"Papineau","personal","stuffed crust","mozzarella","Bacon",3,21
+4,2023,"Younge","medium","thin","Goda","Tomato",4,44
+4,2023,"Bertrand","medium","stuffed crust","cheddar","Bacon",2,22
+4,2023,"Bank","personal","thin","Goda","Bacon",4,28
+4,2023,"Bertrand","small","thin","cheddar","Tomato",1,9
+4,2023,"Boundary","personal","thin","Goda","Tomato",5,35
+4,2023,"Boundary","xlarge","stuffed crust","cheddar","mushroom",1,15
+4,2023,"Bank","medium","stuffed crust","cheddar","mushroom",4,44
+5,2023,"Boundary","xlarge","thin","cheddar","mushroom",1,15
+5,2023,"Boundary","large","stuffed crust","cheddar","Pepperoni",1,13
+5,2023,"Bertrand","personal","regular","mozzarella","mushroom",5,35
+5,2023,"Bank","large","thin","cheddar","Bacon",1,13
+5,2023,"Younge","xlarge","regular","cheddar","Pepperoni",1,15
+5,2023,"Younge","xlarge","thin","Goda","mushroom",1,15
+5,2023,"Bertrand","xlarge","regular","Goda","Pepperoni",1,15
+5,2023,"Bank","xlarge","regular","mozzarella","Tomato",1,15
+5,2023,"Boundary","large","thin","Goda","mushroom",1,13
+5,2023,"Boundary","xlarge","thin","mozzarella","Pepperoni",2,30
+5,2023,"Papineau","personal","thin","Goda","Bacon",2,14
+5,2023,"Boundary","xlarge","thin","mozzarella","Pepperoni",5,75
+5,2023,"Bank","medium","regular","mozzarella","mushroom",2,22
+5,2023,"Younge","xlarge","stuffed crust","mozzarella","Tomato",2,30
+5,2023,"Bertrand","large","thin","mozzarella","Tomato",1,13
+5,2023,"Boundary","large","stuffed crust","mozzarella","Pepperoni",3,39
+5,2023,"Papineau","xlarge","regular","mozzarella","Tomato",1,15
+5,2023,"Bank","small","thin","cheddar","Bacon",1,9
+5,2023,"Bank","personal","thin","Goda","Tomato",3,21
+5,2023,"Bank","personal","stuffed crust","mozzarella","Pepperoni",1,7
+5,2023,"Boundary","xlarge","thin","Goda","Tomato",1,15
+5,2023,"Younge","small","regular","mozzarella","Tomato",2,18
+5,2023,"Bank","small","stuffed crust","mozzarella","Pepperoni",2,18
+5,2023,"Bertrand","medium","regular","cheddar","Bacon",5,55
+5,2023,"Bertrand","large","stuffed crust","cheddar","mushroom",5,65
+5,2023,"Bank","small","regular","cheddar","Pepperoni",1,9
+5,2023,"Papineau","large","thin","mozzarella","Bacon",1,13
+5,2023,"Bank","personal","regular","cheddar","Bacon",3,21
+5,2023,"Papineau","xlarge","regular","cheddar","mushroom",5,75
+5,2023,"Papineau","xlarge","thin","Goda","Bacon",4,60
+5,2023,"Bertrand","medium","thin","Goda","Bacon",1,11
+5,2023,"Papineau","small","regular","cheddar","mushroom",4,36
+5,2023,"Younge","small","regular","Goda","Bacon",5,45
+5,2023,"Bertrand","personal","stuffed crust","Goda","mushroom",5,35
+5,2023,"Papineau","large","stuffed crust","mozzarella","mushroom",1,13
+5,2023,"Bank","xlarge","stuffed crust","Goda","Pepperoni",2,30
+5,2023,"Bank","large","stuffed crust","Goda","Pepperoni",5,65
+5,2023,"Papineau","xlarge","thin","cheddar","Bacon",1,15
+5,2023,"Younge","xlarge","stuffed crust","mozzarella","Pepperoni",5,75
+5,2023,"Bank","xlarge","stuffed crust","mozzarella","Pepperoni",2,30
+5,2023,"Bank","small","regular","mozzarella","Tomato",1,9
+5,2023,"Bertrand","xlarge","stuffed crust","cheddar","Pepperoni",2,30
+6,2023,"Younge","xlarge","regular","Goda","Pepperoni",1,15
+6,2023,"Bank","medium","stuffed crust","Goda","Tomato",5,55
+6,2023,"Bank","medium","thin","Goda","Pepperoni",1,11
+6,2023,"Younge","xlarge","thin","cheddar","Pepperoni",1,15
+6,2023,"Papineau","large","stuffed crust","cheddar","mushroom",1,13
+6,2023,"Bertrand","xlarge","stuffed crust","mozzarella","mushroom",2,30
+6,2023,"Bertrand","small","stuffed crust","cheddar","Bacon",3,27
+6,2023,"Bank","personal","thin","mozzarella","Bacon",1,7
+6,2023,"Bank","personal","thin","Goda","Pepperoni",1,7
+6,2023,"Boundary","medium","stuffed crust","cheddar","Bacon",1,11
+6,2023,"Boundary","xlarge","stuffed crust","cheddar","Pepperoni",3,45
+6,2023,"Boundary","xlarge","regular","cheddar","mushroom",5,75
+6,2023,"Papineau","large","thin","Goda","Bacon",1,13
+6,2023,"Bertrand","large","stuffed crust","Goda","Tomato",5,65
+6,2023,"Bank","xlarge","stuffed crust","Goda","mushroom",3,45
+6,2023,"Papineau","small","stuffed crust","mozzarella","Tomato",5,45
+6,2023,"Papineau","personal","stuffed crust","Goda","mushroom",1,7
+6,2023,"Boundary","personal","stuffed crust","mozzarella","mushroom",1,7
+6,2023,"Bertrand","large","stuffed crust","mozzarella","mushroom",4,52
+6,2023,"Younge","xlarge","regular","Goda","mushroom",1,15
+6,2023,"Bank","xlarge","thin","Goda","Tomato",3,45
+6,2023,"Younge","personal","stuffed crust","Goda","Bacon",1,7
+6,2023,"Boundary","xlarge","thin","Goda","Tomato",3,45
+6,2023,"Boundary","xlarge","thin","mozzarella","Pepperoni",2,30
+6,2023,"Younge","xlarge","stuffed crust","mozzarella","Bacon",1,15
+6,2023,"Bank","large","stuffed crust","Goda","Bacon",5,65
+6,2023,"Younge","large","regular","cheddar","Bacon",2,26
+6,2023,"Boundary","xlarge","regular","mozzarella","Bacon",2,30
+6,2023,"Papineau","personal","stuffed crust","Goda","Pepperoni",2,14
+6,2023,"Bertrand","large","regular","cheddar","Bacon",3,39
+6,2023,"Younge","medium","thin","mozzarella","Pepperoni",1,11
+6,2023,"Papineau","large","stuffed crust","cheddar","Bacon",1,13
+6,2023,"Boundary","xlarge","stuffed crust","cheddar","Pepperoni",1,15
+6,2023,"Boundary","personal","thin","mozzarella","mushroom",1,7
+6,2023,"Bank","xlarge","thin","cheddar","Bacon",5,75
+6,2023,"Papineau","large","stuffed crust","Goda","Pepperoni",2,26
+6,2023,"Younge","small","stuffed crust","Goda","Tomato",3,27
+6,2023,"Boundary","large","stuffed crust","Goda","Tomato",3,39
+6,2023,"Boundary","xlarge","regular","Goda","Pepperoni",1,15
+6,2023,"Boundary","small","regular","Goda","Bacon",1,9
+6,2023,"Bertrand","personal","stuffed crust","Goda","mushroom",2,14
+6,2023,"Papineau","small","regular","Goda","Tomato",2,18
+6,2023,"Younge","personal","thin","cheddar","mushroom",5,35
+6,2023,"Bertrand","small","regular","mozzarella","Pepperoni",2,18
+6,2023,"Papineau","personal","thin","cheddar","mushroom",1,7
+6,2023,"Bertrand","xlarge","regular","Goda","Tomato",1,15
+6,2023,"Boundary","xlarge","regular","Goda","mushroom",4,60
+7,2023,"Papineau","personal","stuffed crust","cheddar","mushroom",1,7
+7,2023,"Bertrand","xlarge","regular","cheddar","Pepperoni",4,60
+7,2023,"Bertrand","large","stuffed crust","cheddar","mushroom",1,13
+7,2023,"Papineau","large","stuffed crust","cheddar","Tomato",1,13
+7,2023,"Boundary","xlarge","thin","mozzarella","mushroom",5,75
+7,2023,"Papineau","large","stuffed crust","Goda","mushroom",1,13
+7,2023,"Papineau","large","stuffed crust","cheddar","Bacon",2,26
+7,2023,"Boundary","small","thin","Goda","Bacon",1,9
+7,2023,"Boundary","xlarge","thin","mozzarella","mushroom",3,45
+7,2023,"Bank","large","regular","cheddar","Pepperoni",1,13
+7,2023,"Younge","small","thin","Goda","Pepperoni",1,9
+7,2023,"Papineau","large","regular","mozzarella","Tomato",1,13
+7,2023,"Papineau","medium","thin","Goda","Bacon",2,22
+7,2023,"Younge","small","thin","mozzarella","Tomato",1,9
+7,2023,"Boundary","medium","stuffed crust","mozzarella","Bacon",1,11
+7,2023,"Bank","large","thin","Goda","Tomato",1,13
+7,2023,"Boundary","xlarge","stuffed crust","cheddar","Pepperoni",3,45
+7,2023,"Younge","large","stuffed crust","mozzarella","Bacon",5,65
+7,2023,"Boundary","xlarge","regular","cheddar","mushroom",4,60
+7,2023,"Boundary","large","thin","Goda","Pepperoni",1,13
+7,2023,"Younge","xlarge","thin","cheddar","Tomato",1,15
+7,2023,"Bank","personal","thin","Goda","Bacon",4,28
+7,2023,"Papineau","large","regular","Goda","Pepperoni",1,13
+7,2023,"Papineau","large","regular","mozzarella","mushroom",2,26
+7,2023,"Papineau","small","regular","cheddar","Tomato",1,9
+7,2023,"Bertrand","small","stuffed crust","Goda","Bacon",4,36
+7,2023,"Boundary","personal","thin","cheddar","Bacon",2,14
+7,2023,"Younge","medium","thin","Goda","Bacon",1,11
+7,2023,"Bank","personal","stuffed crust","cheddar","mushroom",1,7
+7,2023,"Boundary","xlarge","regular","Goda","Tomato",1,15
+7,2023,"Bertrand","large","thin","cheddar","Tomato",1,13
+7,2023,"Bank","xlarge","regular","Goda","Bacon",1,15
+7,2023,"Papineau","small","regular","Goda","mushroom",1,9
+7,2023,"Bank","xlarge","stuffed crust","mozzarella","mushroom",1,15
+7,2023,"Boundary","medium","regular","Goda","mushroom",1,11
+7,2023,"Younge","large","stuffed crust","cheddar","mushroom",2,26
+7,2023,"Papineau","small","regular","cheddar","Pepperoni",4,36
+7,2023,"Papineau","personal","thin","mozzarella","Tomato",1,7
+7,2023,"Bank","large","stuffed crust","Goda","Pepperoni",1,13
+7,2023,"Bank","small","stuffed crust","cheddar","Bacon",2,18
+7,2023,"Younge","xlarge","thin","Goda","mushroom",1,15
+7,2023,"Bank","medium","stuffed crust","mozzarella","Pepperoni",1,11
+7,2023,"Papineau","xlarge","regular","Goda","mushroom",1,15
+7,2023,"Bertrand","xlarge","regular","mozzarella","Pepperoni",3,45
+7,2023,"Boundary","xlarge","stuffed crust","cheddar","mushroom",5,75
+7,2023,"Younge","xlarge","regular","mozzarella","Bacon",1,15
+7,2023,"Younge","personal","stuffed crust","cheddar","Tomato",2,14
+7,2023,"Bertrand","small","regular","Goda","Bacon",2,18
+7,2023,"Bank","medium","stuffed crust","cheddar","Pepperoni",1,11
+8,2023,"Bertrand","small","regular","cheddar","Pepperoni",5,45
+8,2023,"Papineau","small","thin","cheddar","Bacon",1,9
+8,2023,"Bank","xlarge","stuffed crust","Goda","Pepperoni",1,15
+8,2023,"Boundary","xlarge","stuffed crust","Goda","mushroom",1,15
+8,2023,"Younge","small","regular","Goda","Tomato",1,9
+8,2023,"Papineau","large","stuffed crust","Goda","Bacon",1,13
+8,2023,"Papineau","xlarge","thin","cheddar","Tomato",4,60
+8,2023,"Bank","xlarge","stuffed crust","cheddar","Pepperoni",4,60
+8,2023,"Boundary","small","regular","cheddar","Bacon",1,9
+8,2023,"Bertrand","small","stuffed crust","Goda","Bacon",1,9
+8,2023,"Bertrand","personal","thin","mozzarella","Bacon",2,14
+8,2023,"Younge","xlarge","thin","mozzarella","Pepperoni",1,15
+8,2023,"Boundary","small","regular","mozzarella","mushroom",4,36
+8,2023,"Boundary","large","regular","Goda","Tomato",1,13
+8,2023,"Bank","xlarge","thin","mozzarella","Bacon",1,15
+8,2023,"Bank","large","stuffed crust","Goda","Bacon",1,13
+8,2023,"Bank","large","stuffed crust","mozzarella","Tomato",1,13
+8,2023,"Bertrand","medium","stuffed crust","Goda","Bacon",1,11
+8,2023,"Bank","large","stuffed crust","mozzarella","Bacon",1,13
+8,2023,"Bertrand","xlarge","stuffed crust","mozzarella","Bacon",5,75
+8,2023,"Papineau","xlarge","stuffed crust","cheddar","Pepperoni",4,60
+8,2023,"Bank","large","regular","mozzarella","Tomato",2,26
+8,2023,"Bertrand","xlarge","regular","mozzarella","Bacon",1,15
+8,2023,"Younge","large","regular","Goda","mushroom",1,13
+8,2023,"Bertrand","personal","thin","cheddar","Bacon",5,35
+8,2023,"Bank","medium","stuffed crust","mozzarella","Tomato",1,11
+8,2023,"Bank","small","thin","cheddar","Bacon",1,9
+8,2023,"Younge","large","stuffed crust","cheddar","Bacon",5,65
+8,2023,"Bertrand","small","regular","mozzarella","Bacon",1,9
+8,2023,"Boundary","personal","thin","cheddar","Bacon",1,7
+8,2023,"Younge","medium","regular","mozzarella","Pepperoni",1,11
+8,2023,"Bank","xlarge","thin","mozzarella","Pepperoni",1,15
+8,2023,"Bank","large","thin","mozzarella","mushroom",3,39
+8,2023,"Bank","personal","thin","Goda","mushroom",2,14
+8,2023,"Papineau","xlarge","stuffed crust","mozzarella","Tomato",2,30
+8,2023,"Bank","xlarge","stuffed crust","cheddar","mushroom",1,15
+8,2023,"Boundary","personal","regular","Goda","Bacon",1,7
+8,2023,"Younge","xlarge","stuffed crust","cheddar","Pepperoni",4,60
+8,2023,"Bank","small","thin","Goda","Tomato",2,18
+8,2023,"Bertrand","large","thin","mozzarella","mushroom",4,52
+8,2023,"Younge","small","regular","cheddar","Bacon",5,45
+8,2023,"Papineau","small","stuffed crust","cheddar","Tomato",2,18
+8,2023,"Bertrand","xlarge","stuffed crust","mozzarella","Tomato",1,15
+8,2023,"Papineau","xlarge","stuffed crust","Goda","Tomato",4,60
+8,2023,"Bank","medium","stuffed crust","mozzarella","Tomato",1,11
+8,2023,"Boundary","personal","regular","cheddar","Tomato",2,14
+8,2023,"Boundary","small","thin","mozzarella","Pepperoni",2,18
+8,2023,"Bertrand","personal","regular","mozzarella","Tomato",5,35
+8,2023,"Bertrand","medium","thin","cheddar","Tomato",1,11
+8,2023,"Bank","xlarge","stuffed crust","Goda","Tomato",1,15
+8,2023,"Papineau","personal","stuffed crust","cheddar","mushroom",5,35
+8,2023,"Bertrand","medium","thin","Goda","Bacon",1,11
+9,2023,"Younge","small","regular","Goda","mushroom",4,36
+9,2023,"Younge","small","thin","mozzarella","Bacon",1,9
+9,2023,"Younge","xlarge","stuffed crust","Goda","mushroom",5,75
+9,2023,"Bank","xlarge","thin","Goda","Bacon",4,60
+9,2023,"Younge","medium","regular","mozzarella","Pepperoni",2,22
+9,2023,"Bank","medium","stuffed crust","Goda","Pepperoni",3,33
+9,2023,"Bank","xlarge","stuffed crust","mozzarella","Tomato",1,15
+9,2023,"Younge","large","stuffed crust","mozzarella","Bacon",1,13
+9,2023,"Bank","personal","regular","mozzarella","mushroom",1,7
+9,2023,"Younge","large","regular","Goda","mushroom",3,39
+9,2023,"Papineau","xlarge","thin","cheddar","mushroom",2,30
+9,2023,"Bertrand","large","thin","mozzarella","mushroom",2,26
+9,2023,"Bank","xlarge","stuffed crust","cheddar","Bacon",1,15
+9,2023,"Bertrand","personal","stuffed crust","cheddar","Bacon",2,14
+9,2023,"Bertrand","xlarge","stuffed crust","Goda","Pepperoni",4,60
+9,2023,"Bertrand","medium","thin","mozzarella","Tomato",2,22
+9,2023,"Boundary","large","stuffed crust","mozzarella","Pepperoni",4,52
+9,2023,"Boundary","personal","stuffed crust","mozzarella","mushroom",1,7
+9,2023,"Younge","small","stuffed crust","Goda","Pepperoni",1,9
+9,2023,"Boundary","medium","stuffed crust","mozzarella","mushroom",5,55
+9,2023,"Boundary","xlarge","stuffed crust","mozzarella","Pepperoni",1,15
+9,2023,"Bank","large","stuffed crust","mozzarella","mushroom",1,13
+9,2023,"Bank","personal","stuffed crust","Goda","Pepperoni",3,21
+9,2023,"Bertrand","personal","thin","mozzarella","Bacon",1,7
+9,2023,"Boundary","xlarge","stuffed crust","Goda","Bacon",1,15
+9,2023,"Papineau","xlarge","stuffed crust","mozzarella","mushroom",1,15
+9,2023,"Papineau","large","stuffed crust","Goda","Pepperoni",2,26
+9,2023,"Boundary","medium","stuffed crust","Goda","Bacon",1,11
+9,2023,"Bank","small","stuffed crust","Goda","Pepperoni",1,9
+9,2023,"Bertrand","xlarge","thin","cheddar","Tomato",1,15
+9,2023,"Boundary","xlarge","regular","cheddar","mushroom",2,30
+9,2023,"Papineau","xlarge","regular","mozzarella","Tomato",2,30
+9,2023,"Boundary","large","regular","mozzarella","mushroom",3,39
+9,2023,"Bertrand","large","thin","Goda","Tomato",2,26
+9,2023,"Papineau","xlarge","thin","mozzarella","Bacon",1,15
+9,2023,"Bank","large","stuffed crust","Goda","Bacon",1,13
+9,2023,"Bank","xlarge","regular","Goda","Bacon",2,30
+9,2023,"Bertrand","xlarge","regular","mozzarella","Tomato",1,15
+9,2023,"Bank","small","regular","mozzarella","Bacon",1,9
+9,2023,"Papineau","xlarge","regular","Goda","Bacon",3,45
+9,2023,"Younge","large","regular","mozzarella","Pepperoni",1,13
+9,2023,"Boundary","xlarge","stuffed crust","cheddar","mushroom",4,60
+9,2023,"Papineau","small","thin","Goda","Tomato",4,36
+10,2023,"Younge","personal","stuffed crust","mozzarella","Bacon",1,7
+10,2023,"Bertrand","personal","stuffed crust","cheddar","mushroom",1,7
+10,2023,"Papineau","medium","thin","Goda","Pepperoni",2,22
+10,2023,"Bank","xlarge","regular","cheddar","mushroom",1,15
+10,2023,"Bertrand","personal","stuffed crust","mozzarella","mushroom",2,14
+10,2023,"Boundary","large","regular","Goda","Tomato",1,13
+10,2023,"Bank","large","regular","Goda","Pepperoni",1,13
+10,2023,"Boundary","large","stuffed crust","mozzarella","Pepperoni",1,13
+10,2023,"Bank","xlarge","stuffed crust","Goda","mushroom",4,60
+10,2023,"Papineau","large","stuffed crust","Goda","Bacon",2,26
+10,2023,"Younge","personal","regular","Goda","Pepperoni",1,7
+10,2023,"Bertrand","large","regular","cheddar","Pepperoni",1,13
+10,2023,"Younge","xlarge","thin","mozzarella","mushroom",1,15
+10,2023,"Younge","medium","regular","Goda","Pepperoni",2,22
+10,2023,"Bertrand","large","thin","Goda","mushroom",1,13
+10,2023,"Younge","large","stuffed crust","mozzarella","mushroom",1,13
+10,2023,"Papineau","small","regular","cheddar","Pepperoni",5,45
+10,2023,"Bertrand","large","thin","cheddar","Pepperoni",2,26
+10,2023,"Papineau","small","regular","cheddar","Tomato",4,36
+10,2023,"Papineau","medium","thin","Goda","Bacon",1,11
+10,2023,"Boundary","xlarge","stuffed crust","Goda","Bacon",2,30
+10,2023,"Bertrand","large","regular","cheddar","mushroom",5,65
+10,2023,"Boundary","xlarge","stuffed crust","Goda","Pepperoni",1,15
+10,2023,"Papineau","small","stuffed crust","cheddar","mushroom",1,9
+10,2023,"Papineau","medium","stuffed crust","Goda","Pepperoni",1,11
+10,2023,"Bank","medium","thin","mozzarella","Bacon",4,44
+10,2023,"Bertrand","large","stuffed crust","Goda","mushroom",1,13
+10,2023,"Boundary","large","thin","Goda","Pepperoni",1,13
+10,2023,"Bank","large","regular","cheddar","Tomato",5,65
+10,2023,"Bertrand","small","stuffed crust","mozzarella","Pepperoni",1,9
+10,2023,"Bertrand","personal","stuffed crust","cheddar","Pepperoni",1,7
+10,2023,"Papineau","personal","regular","Goda","mushroom",4,28
+10,2023,"Papineau","xlarge","stuffed crust","Goda","Tomato",1,15
+10,2023,"Papineau","small","regular","mozzarella","mushroom",2,18
+10,2023,"Boundary","personal","stuffed crust","cheddar","Pepperoni",2,14
+10,2023,"Younge","xlarge","thin","mozzarella","Bacon",1,15
+10,2023,"Papineau","xlarge","stuffed crust","Goda","Tomato",1,15
+10,2023,"Bank","medium","thin","mozzarella","Bacon",5,55
+10,2023,"Boundary","xlarge","thin","cheddar","Bacon",2,30
+10,2023,"Papineau","xlarge","thin","cheddar","Pepperoni",3,45
+10,2023,"Younge","xlarge","regular","Goda","Pepperoni",1,15
+10,2023,"Bertrand","personal","thin","cheddar","Bacon",5,35
+10,2023,"Bank","xlarge","stuffed crust","mozzarella","Tomato",2,30
+10,2023,"Younge","medium","thin","mozzarella","Pepperoni",3,33
+10,2023,"Bank","medium","regular","mozzarella","mushroom",4,44
+10,2023,"Bertrand","large","thin","Goda","Pepperoni",1,13
+10,2023,"Bertrand","large","regular","cheddar","Bacon",1,13
+10,2023,"Bertrand","xlarge","thin","Goda","Pepperoni",1,15
+11,2023,"Papineau","xlarge","stuffed crust","Goda","mushroom",1,15
+11,2023,"Papineau","personal","regular","cheddar","Pepperoni",1,7
+11,2023,"Boundary","medium","regular","cheddar","Bacon",5,55
+11,2023,"Boundary","small","stuffed crust","cheddar","Bacon",1,9
+11,2023,"Boundary","xlarge","thin","cheddar","Pepperoni",1,15
+11,2023,"Younge","medium","thin","cheddar","Tomato",3,33
+11,2023,"Boundary","xlarge","thin","Goda","mushroom",5,75
+11,2023,"Bertrand","xlarge","stuffed crust","mozzarella","Bacon",4,60
+11,2023,"Papineau","xlarge","regular","mozzarella","Bacon",1,15
+11,2023,"Boundary","large","regular","mozzarella","Pepperoni",1,13
+11,2023,"Younge","large","regular","Goda","Pepperoni",5,65
+11,2023,"Younge","small","regular","Goda","mushroom",1,9
+11,2023,"Younge","medium","thin","Goda","Bacon",2,22
+11,2023,"Bank","medium","stuffed crust","cheddar","Tomato",1,11
+11,2023,"Boundary","large","stuffed crust","cheddar","mushroom",5,65
+11,2023,"Bank","xlarge","thin","cheddar","mushroom",2,30
+11,2023,"Bank","xlarge","thin","mozzarella","mushroom",1,15
+11,2023,"Boundary","large","regular","Goda","Pepperoni",5,65
+11,2023,"Papineau","personal","thin","cheddar","Bacon",1,7
+11,2023,"Younge","xlarge","thin","Goda","Pepperoni",3,45
+11,2023,"Bertrand","medium","stuffed crust","cheddar","Tomato",4,44
+11,2023,"Younge","small","regular","cheddar","Bacon",2,18
+11,2023,"Younge","xlarge","regular","mozzarella","Bacon",1,15
+11,2023,"Bertrand","large","regular","Goda","Tomato",1,13
+11,2023,"Bank","xlarge","stuffed crust","cheddar","mushroom",1,15
+11,2023,"Bertrand","small","stuffed crust","mozzarella","mushroom",2,18
+11,2023,"Bank","xlarge","thin","Goda","Tomato",5,75
+11,2023,"Boundary","medium","thin","cheddar","Pepperoni",1,11
+11,2023,"Bank","medium","stuffed crust","Goda","Tomato",2,22
+11,2023,"Bank","small","stuffed crust","mozzarella","Tomato",1,9
+11,2023,"Papineau","personal","regular","cheddar","mushroom",1,7
+11,2023,"Papineau","large","regular","mozzarella","mushroom",1,13
+11,2023,"Papineau","xlarge","thin","mozzarella","mushroom",2,30
+11,2023,"Papineau","medium","regular","Goda","mushroom",1,11
+11,2023,"Bank","personal","stuffed crust","Goda","Pepperoni",1,7
+11,2023,"Bertrand","personal","regular","mozzarella","Pepperoni",1,7
+11,2023,"Younge","large","regular","mozzarella","Bacon",5,65
+11,2023,"Bertrand","medium","regular","cheddar","mushroom",1,11
+11,2023,"Bank","xlarge","thin","mozzarella","Tomato",2,30
+11,2023,"Younge","large","regular","mozzarella","Pepperoni",1,13
+11,2023,"Younge","xlarge","thin","mozzarella","mushroom",1,15
+11,2023,"Bertrand","large","stuffed crust","cheddar","mushroom",2,26
+11,2023,"Younge","xlarge","stuffed crust","Goda","mushroom",1,15
+11,2023,"Bertrand","xlarge","stuffed crust","cheddar","Bacon",2,30
+11,2023,"Boundary","personal","stuffed crust","mozzarella","Bacon",5,35
+11,2023,"Younge","xlarge","regular","mozzarella","Tomato",1,15
+11,2023,"Bank","xlarge","regular","Goda","Bacon",3,45
+11,2023,"Papineau","xlarge","stuffed crust","cheddar","mushroom",3,45
+11,2023,"Younge","small","regular","cheddar","Bacon",1,9
+11,2023,"Boundary","small","thin","mozzarella","Pepperoni",2,18
+12,2023,"Bank","xlarge","regular","mozzarella","Bacon",1,15
+12,2023,"Boundary","large","stuffed crust","Goda","Tomato",1,13
+12,2023,"Bank","xlarge","stuffed crust","Goda","mushroom",1,15
+12,2023,"Papineau","xlarge","thin","Goda","Bacon",5,75
+12,2023,"Younge","medium","thin","mozzarella","mushroom",5,55
+12,2023,"Papineau","personal","stuffed crust","cheddar","Tomato",1,7
+12,2023,"Younge","large","thin","cheddar","Pepperoni",3,39
+12,2023,"Boundary","medium","thin","Goda","Tomato",3,33
+12,2023,"Bank","xlarge","stuffed crust","Goda","Pepperoni",4,60
+12,2023,"Bertrand","personal","regular","mozzarella","Tomato",4,28
+12,2023,"Bertrand","xlarge","thin","Goda","Tomato",1,15
+12,2023,"Papineau","medium","thin","Goda","Pepperoni",3,33
+12,2023,"Boundary","personal","regular","cheddar","Pepperoni",4,28
+12,2023,"Bank","xlarge","thin","cheddar","Tomato",2,30
+12,2023,"Papineau","medium","stuffed crust","Goda","Tomato",3,33
+12,2023,"Papineau","personal","stuffed crust","mozzarella","Tomato",1,7
+12,2023,"Younge","xlarge","stuffed crust","mozzarella","Bacon",2,30
+12,2023,"Boundary","large","thin","mozzarella","Bacon",2,26
+12,2023,"Boundary","xlarge","stuffed crust","mozzarella","Tomato",1,15
+12,2023,"Bank","personal","thin","mozzarella","Bacon",3,21
+12,2023,"Boundary","medium","regular","mozzarella","mushroom",1,11
+12,2023,"Papineau","small","stuffed crust","mozzarella","Pepperoni",1,9
+12,2023,"Papineau","large","stuffed crust","Goda","Tomato",1,13
+12,2023,"Bertrand","small","stuffed crust","Goda","Tomato",2,18
+12,2023,"Younge","xlarge","stuffed crust","Goda","Bacon",1,15
+12,2023,"Bank","personal","regular","mozzarella","Tomato",1,7
+12,2023,"Bertrand","large","thin","Goda","Pepperoni",1,13
+12,2023,"Bank","personal","stuffed crust","Goda","Pepperoni",1,7
+12,2023,"Bank","medium","thin","mozzarella","Tomato",1,11
+12,2023,"Papineau","xlarge","thin","mozzarella","Pepperoni",1,15
+12,2023,"Papineau","xlarge","regular","cheddar","mushroom",2,30
+12,2023,"Bank","large","thin","cheddar","Bacon",2,26
+12,2023,"Papineau","xlarge","stuffed crust","cheddar","mushroom",3,45
+12,2023,"Papineau","small","stuffed crust","cheddar","Tomato",1,9
+12,2023,"Bank","large","thin","cheddar","Tomato",1,13
+12,2023,"Younge","personal","stuffed crust","mozzarella","Tomato",3,21
+12,2023,"Younge","xlarge","regular","Goda","Bacon",3,45
+12,2023,"Bertrand","small","thin","mozzarella","Pepperoni",4,36
+12,2023,"Papineau","xlarge","thin","cheddar","Tomato",1,15
+12,2023,"Younge","small","thin","mozzarella","mushroom",3,27
+12,2023,"Boundary","xlarge","stuffed crust","mozzarella","mushroom",1,15
+12,2023,"Bertrand","small","regular","cheddar","Tomato",4,36
+12,2023,"Papineau","medium","regular","mozzarella","Pepperoni",5,55
+12,2023,"Bank","medium","stuffed crust","cheddar","Bacon",2,22
+12,2023,"Bertrand","large","regular","mozzarella","Bacon",2,26
+12,2023,"Papineau","large","thin","Goda","mushroom",1,13
+12,2023,"Bertrand","personal","thin","Goda","Tomato",1,7
+12,2023,"Younge","personal","thin","Goda","Bacon",4,28
+12,2023,"Boundary","small","thin","mozzarella","mushroom",1,9
+12,2023,"Bertrand","xlarge","stuffed crust","mozzarella","Pepperoni",2,30
+12,2023,"Younge","xlarge","stuffed crust","cheddar","mushroom",5,75
+12,2023,"Boundary","xlarge","regular","cheddar","Tomato",2,30
+12,2023,"Bertrand","xlarge","regular","mozzarella","mushroom",4,60
+12,2023,"Bertrand","xlarge","thin","Goda","mushroom",1,15
+12,2023,"Bank","large","stuffed crust","cheddar","Tomato",1,13
+12,2023,"Papineau","small","regular","Goda","Pepperoni",2,18
+12,2023,"Papineau","large","stuffed crust","mozzarella","Tomato",1,13
+12,2023,"Bank","xlarge","thin","mozzarella","Bacon",1,15
+12,2023,"Bank","xlarge","regular","Goda","Tomato",2,30
+12,2023,"Bertrand","small","stuffed crust","Goda","Pepperoni",1,9
+12,2023,"Younge","xlarge","thin","cheddar","Pepperoni",1,15
+12,2023,"Boundary","medium","stuffed crust","Goda","Bacon",1,11
+12,2023,"Bertrand","small","regular","Goda","Bacon",1,9
+12,2023,"Bertrand","medium","regular","cheddar","Pepperoni",2,22
+12,2023,"Bertrand","personal","thin","cheddar","mushroom",2,14
+12,2023,"Younge","large","stuffed crust","mozzarella","mushroom",4,52
